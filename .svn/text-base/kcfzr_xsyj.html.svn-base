@@ -1,0 +1,213 @@
+<HTML>
+	<HEAD>
+		<TITLE>数据库系统原理</TITLE>
+		<META http-equiv="Content-Type" content="text/html; charset=gb2312">
+		<style type="text/css"> 
+		<!-- .header {font-family:Tahoma, sans-serif; font-size: 12px; COLOR:#2FFFFF; padding-left:10; padding-right:5; font-weight:900 }
+	.text {font-family:Tahoma,sans-serif; font-size: 11px; color:#ffffff; padding-left:20; padding-right:10 }
+	.text2 {font-family:Verdana,sans-serif; font-size: 10px; color:#ffffff; padding-left:20; padding-right:10 }
+	.news {font-family:Arial, sans-serif; font-size: 9px; color:#ffffff; padding-left:10; padding-right:5; font-weight:900; }
+	a:link{text-decoration: none; color:#004FDF}
+	a:visited{text-decoration: none; color: #004FDF}
+	a:hover{text-decoration: underline; color: #004FDF}
+	a:active{text-decoration: none; color: #004FDF}
+.STYLE2 {font-size: 10pt; font-family: "宋体"; font-weight: bold; }
+.STYLE3 {
+	font-size: 10pt;
+	font-family: "宋体";
+}
+	
+	-->
+		</style>
+	</HEAD>
+	<BODY bgColor="#ffffff" leftMargin="0" background="images/bg.jpg" topMargin="0" MARGINHEIGHT="0"
+		MARGINWIDTH="0">
+		<!-- ImageReady Slices (14.psd) -->
+		<TABLE height="100%" cellSpacing="0" cellPadding="0" width="780" align="center" bgColor="#ffffff"
+			border="0">
+			<TR>
+				<td width="1" rowSpan="100" bgColor="#000000"><IMG src="images/spacer.gif" with="1"></td>
+				<TD width="275" height="95"><img height="95" alt="" src="images/1.jpg" width="228"></TD>
+				<TD height="95"><a href="index.html"><IMG height="95" alt="" src="images/5.jpg" width="78" border="0"></a></TD>
+				<TD height="95" align="center"><a href="kcfzr.html"><IMG height="95" alt="" src="images/6.jpg" width="67" border="0"></a></TD>
+				<TD colSpan="2" height="95" align="center"><a href="jsdw.html"><img height="95" alt="" src="images/8.jpg" width="58" border="0"></a></TD>
+				<TD width="69" height="95"><a href="http://222.204.215.5:8090/" target="_blank"><img height="95" alt="" src="images/12.jpg" width="63" border="0"></a></TD>
+				<TD width="63" height="95"><a href="zjjs.html"><img height="95" alt="" src="images/7.jpg" width="69" border="0"></a></TD>
+				<TD width="63" height="95"><a href="kcms.html"><img height="95" alt="" src="images/9.jpg" width="57" border="0"></a></TD>
+				<TD width="52" height="95"><a href="kcgh.html"><IMG height="95" alt="" src="images/11.jpg" width="52" border="0"></a></TD>
+				<TD width="63" height="95"><a href="zwpj.html"><img height="95" alt="" src="images/10.jpg" width="63" border="0"></a></TD>
+				<TD width="45" height="95"><IMG height="95" alt="" src="images/13.jpg" width="45"></TD>
+				<td width="1" rowSpan="100" bgColor="#000000"><IMG src="images/spacer.gif" with="1"></td>
+			</TR>
+			<TR>
+				<TD vAlign="top" width="780" background="images/_26.jpg" colSpan="11" height="100%">
+					<TABLE height="93" cellSpacing="0" cellPadding="0" width="780" border="0">
+						<TR>
+							<TD background="images/r_02.jpg" colSpan="5" height="24" ALT="">
+								<div class="text" style="PADDING-LEFT: 10px; FONT-SIZE: 12px; COLOR: #cfcfcf" align="left"><strong style="COLOR: #819ee0">
+									课程负责人</strong>
+								</div>
+							</TD>
+						</TR>
+						<TR>
+							<TD width="390" background="images/r_04.jpg" colSpan="5" height="37" ALT="">
+								<div class="text" style="FONT-SIZE: 10pt"><strong style="COLOR: #f69c00">
+									<a style="COLOR: #f69c00" href="kcfzr.html">基本信息</a>
+										| 
+									<a style="COLOR: #f69c00" href="kcfzr_jxqk.html">教学情况</a> | 
+									<a style="COLOR: #f69c00" href="kcfzr_xsyj.html">学术研究</a></strong></div>
+							</TD>
+						</TR>
+						<TR>
+							<TD width="274" height="32" ALT="">
+								<div class="text" style="PADDING-RIGHT: 0px; PADDING-LEFT: 25px; COLOR: #000000; PADDING-TOP: 15px">
+									<strong>学术研究 </strong>:</div>
+							</TD>
+							<TD width="116" height="32" ALT=""></TD>
+						</TR>
+						<TR>
+							<TD colspan="2" valign="top"> 　
+                              <blockquote>
+                                <p class="STYLE2">近年来所主持的科研项目：</p>
+                                <ol>
+                                  <li class="STYLE3">
+                                    <p>“基于Web服务的数据库新技术” 
+                                    经费：15万 来源：国家863子项目　
+                                    2002.9－2004.9</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“上海市176改建C3IA警卫勤务信息管理系统” 
+                                    经费：20万 来源：上海市警卫局
+                                    2002.10－2003.11</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“数据库管理培训鉴定室”
+                                    经费：20万 来源：上海市职业培训中心　2002.4－2003.12</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“中华人民共和国第七届大学生运动会成绩综合处理系统”
+                                    经费：30万 来源：上海市教委　2004.3－2004.9</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“图示化构件开发文档管理系统”
+                                    经费：15万 来源：上海市软件中心　2005.5－2006.9</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“城市信息化智能决策应急指挥系统开发” 
+                                    经费：200万 来源：上海科委
+                                    2005.10-2007.10</p>
+                                  </li>
+                                  <li>
+                                    <p><span class="STYLE3">“数据库实训系统的开发和实现”
+                                    经费：18万 来源：上海力源
+                                    2005.11-2006.5</span><br>
+                                    </p>
+                                  </li>
+                                </ol>
+                                <p class="STYLE2">近年来所发表的部分论文和专著（部分）：</p>
+                                <ol>
+                                  <li class="STYLE3">
+                                    <p>“Oracle 8i Web开发指南” （译著） 2001，6 机械工业出版社</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“Oracle 8i初学者指南” （译著） 2000，10 机械工业出版社</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“Oracle DBA101” （译著） 2001，5 机械工业出版社</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“Oracle数据库应用技术” （编著） 2002，8 东华大学出版社</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“思科成长探秘” （译著） 2003，6 上海交通大学出版社</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“WSRF-Based Computing Framework of Distributed Data Stream Queries” Grid and Cooperative Computing-GCC2004,Third International Conference Wuhan,China,October 2004 Proceedings SCI收录</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“DHT Facilitated Web Service Discovery Incoporating Semantic Annotation” 7th International conferenceDS2004 Padov，Italy October 2004 Proceedings SCI收录</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“Decentralized Web Service Organization Combining Semantic Web and Peer to Peer Computing” Springer-Verlag Berlin Heidelberg 2004 EI收录</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“The Dimension-reduced Multi-scale Histogram：A New Method for Fast and Eficient Retrieval of Similar Time Sequences and Subsequence” 5th International Conference,Waim 2004 Dalian,China,July 2004 Proceedings SCI收录</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“Intelligent Web Service Discovery in Large Distributed system” 5th International Conference Exeter,UK,August 2004 Proceedings SCI收录</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“On Processing Cycle Query‘s strategy for Semistructure Data Model and its Role in Design” 2001，7 Canada Toronto－London</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“Grid Computing Framework of distributed data stream queries”<br>
+                                    GCC2004 Lecture Notes of Computer Science</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“流数据管理系统” 2004，4 计算机应用与软件</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“信息价值完整性概述” 2004，1 计算机应用与软件</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“中间件关键技术研究” 2003，10 计算机应用与软件</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“基于RDBMS的记录匹配方法” 2003，10 计算机应用与软件</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“基于联邦数据库的数据库集成策略” 2003，10 计算机应用与软件</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“基于Web服务的异步消息中间件研究” 2003，10 计算机应用与软件</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“教学管理系统的构件化实现” 2004，4 东华大学学报</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“Web站点链接结构的动态调整模型研究” 2003，10 计算机科学</p>
+                                  </li>
+                                  <li class="STYLE3">
+                                    <p>“基于Web Service的虚拟企业信息平台研究” 2003，10 计算机科学</p>
+                                  </li>
+                                </ol>
+                              </blockquote>                              <p style="margin-left: 20px; margin-right: 20px"><br>　							  </p>						  </TD>
+					  </TR>
+					</TABLE>
+				</TD>
+			</TR>
+			<tr>
+				<td colSpan="11"><IMG src="images/s.jpg" width="780" height="14">
+				</td>
+			</tr>
+			<TR>
+				<TD width="780" background="images/4.jpg" colSpan="11" height="50" ALT="">
+					<div class="text" style="COLOR: #9b9b9b" align="center"><A href="mailto:jsjxy@dhu.edu.cn">
+						意见反馈</A>
+						| <A onClick="window.external.AddFavorite(location.href, document.title);" href="javascript:void(0);">
+							加入收藏 </A>|<A onClick="this.style.behavior='url(#default#homepage)';this.setHomePage(window.location.href);return false"
+							href="#"> 设为首页</A><br>
+						Copyright &copy; 2006 Donghua University. All rights 
+						reserved.
+						<br>
+						东华大学计算机科学与技术学院 版权所有
+					</div>
+				</TD>
+			</TR>
+			<TR>
+				<TD width="228" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="228"></TD>
+				<TD width="78" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="78"></TD>
+				<TD width="67" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="67"></TD>
+				<TD width="235" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="17"></TD>
+				<TD width="52" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="52"></TD>
+				<TD width="58" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="58"></TD>
+				<TD width="57" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="57"></TD>
+				<TD width="63" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="63"></TD>
+				<TD width="52" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="52"></TD>
+				<TD width="63" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="63"></TD>
+				<TD width="45" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="45"></TD>
+			</TR>
+		</TABLE>
+		<!-- End ImageReady Slices -->
+	</BODY>
+</HTML>

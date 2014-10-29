@@ -1,0 +1,415 @@
+<HTML>
+	<HEAD>
+		<TITLE>数据库系统原理</TITLE>
+		<META http-equiv="Content-Type" content="text/html; charset=gb2312">
+		<style type="text/css"> 
+<!--
+.header {
+	font-family: Tahoma, sans-serif;
+	font-size: 12px;
+	COLOR: #2FFFFF;
+	padding-left: 10;
+	padding-right: 5;
+	font-weight: 900
+}
+
+.text {
+	font-family: Tahoma, sans-serif;
+	font-size: 11px;
+	color: #ffffff;
+	padding-left: 20;
+	padding-right: 10
+}
+
+.text2 {
+	font-family: Verdana, sans-serif;
+	font-size: 10px;
+	color: #ffffff;
+	padding-left: 20;
+	padding-right: 10
+}
+
+.news {
+	font-family: Arial, sans-serif;
+	font-size: 9px;
+	color: #ffffff;
+	padding-left: 10;
+	padding-right: 5;
+	font-weight: 900;
+}
+
+a:link {
+	text-decoration: none;
+	color: #004FDF
+}
+
+a:visited {
+	text-decoration: none;
+	color: #004FDF
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #004FDF
+}
+
+a:active {
+	text-decoration: none;
+	color: #004FDF
+}
+
+li {
+	list-style: url("images/11.jpg");
+}
+
+.STYLE1 {
+	font-size: 10pt;
+	font-family: "宋体";
+}
+
+.STYLE5 {
+	font-size: 10pt
+}
+-->
+</style>
+	</HEAD>
+	<BODY bgColor="#ffffff" leftMargin="0" background="images/bg.jpg"
+		topMargin="0" MARGINHEIGHT="0" MARGINWIDTH="0">
+		<!-- ImageReady Slices (14.psd) -->
+		<TABLE height="100%" cellSpacing="0" cellPadding="0" width="780"
+			align="center" bgColor="#ffffff" border="0">
+			<TR>
+				<td width="1" rowSpan="100" bgColor="#000000">
+					<IMG src="images/spacer.gif" with="1">
+				</td>
+				<TD width="275" height="95">
+					<img height="95" alt="" src="images/1.jpg" width="228">
+				</TD>
+				<TD height="95">
+					<a href="index.html"><IMG height="95" alt="" src="images/5.jpg"
+							width="78" border="0">
+					</a>
+				</TD>
+				<TD height="95" align="center">
+					<a href="kcfzr.html"><IMG height="95" alt="" src="images/6.jpg"
+							width="67" border="0">
+					</a>
+				</TD>
+				<TD colSpan="2" height="95" align="center">
+					<a href="jsdw.html"><img height="95" alt="" src="images/8.jpg"
+							width="58" border="0">
+					</a>
+				</TD>
+				<TD width="69" height="95">
+					<a href="http://222.204.215.5:8090/" target="_blank"><img
+							height="95" alt="" src="images/12.jpg" width="63" border="0">
+					</a>
+				</TD>
+				<TD width="63" height="95">
+					<a href="zjjs.html"><img height="95" alt="" src="images/7.jpg"
+							width="69" border="0">
+					</a>
+				</TD>
+				<TD width="63" height="95">
+					<a href="kcms.html"><img height="95" alt="" src="images/9.jpg"
+							width="57" border="0">
+					</a>
+				</TD>
+				<TD width="52" height="95">
+					<a href="kcgh.html"><IMG height="95" alt="" src="images/11.jpg"
+							width="52" border="0">
+					</a>
+				</TD>
+				<TD width="63" height="95">
+					<a href="zwpj.html"><img height="95" alt="" src="images/10.jpg"
+							width="63" border="0">
+					</a>
+				</TD>
+				<TD width="45" height="95">
+					<IMG height="95" alt="" src="images/13.jpg" width="45">
+				</TD>
+				<td width="1" rowSpan="100" bgColor="#000000">
+					<IMG src="images/spacer.gif" with="1">
+				</td>
+			</TR>
+			<TR>
+				<TD vAlign="top" width="780" background="images/_26.jpg"
+					colSpan="11" height="100%">
+					<TABLE height="93" cellSpacing="0" cellPadding="0" width="780"
+						border="0">
+						<TR>
+							<TD background="images/r_02.jpg" colSpan="5" height="24" ALT="">
+								<div class="text"
+									style="PADDING-LEFT: 10px; FONT-SIZE: 12px; COLOR: #cfcfcf"
+									align="left">
+									<strong><span style="color: #819EE0">教师队伍</span>
+									</strong>
+								</div>
+							</TD>
+						</TR>
+						<TR>
+							<TD width="490" background="images/r_04.jpg" colSpan="5"
+								height="37" ALT="">
+								<div class="text" style="FONT-SIZE: 10pt">
+									<strong style="COLOR: #f69c00"> <a
+										style="COLOR: #f69c00" href="jsdw.html">人员构成</a> | <a
+										style="COLOR: #f69c00" href="jsdw_ztjg.html">整体结构</a> | <a
+										style="COLOR: #f69c00" href="jsdw_jxggyj.html">教学改革与教学研究</a> |
+										<a style="COLOR: #f69c00" href="jsdw_szpy.html">师资培养</a>
+									</strong>
+								</div>
+							</TD>
+						</TR>
+						<TR>
+							<TD width="274" height="32" ALT="">
+								<div class="text"
+									style="PADDING-RIGHT: 0px; PADDING-LEFT: 25px; COLOR: #000000; PADDING-TOP: 1px">
+									<strong>教学改革与教学研究 </strong>:
+								</div>
+							</TD>
+							<TD width="116" height="32" ALT=""></TD>
+						</TR>
+						<TR>
+							<TD colspan="2">
+								<div class="text"
+									style="PADDING-RIGHT: 25px; PADDING-LEFT: 25px; COLOR: #000000; PADDING-TOP: 1px">
+									<p class="STYLE1">
+									<table table width="200" border="1" cellspacing="0"
+										cellpadding="0">
+										<tr>
+											<td width="236" height="77">
+												<div align="center">
+													<img src="images/jxcg-le.jpg" width="192" height="144">
+												</div>
+											</td>
+											<td width="202">
+												<img src="images/jg.jpg" width="192" height="144">
+											</td>
+											<td width="260">
+												<img src="images/jc.jpg" width="192" height="144">
+											</td>
+										</tr>
+										<tr>
+											<td height="20">
+												<div align="center" class="STYLE1">
+													上海市教学成果二等奖
+												</div>
+											</td>
+											<td>
+												<div align="center" class="STYLE1">
+													教学改革
+												</div>
+											</td>
+											<td>
+												<div align="center" class="STYLE1">
+													出版教材
+												</div>
+											</td>
+										</tr>
+									</table>
+									</p>
+									<p class="STYLE1">
+										一、不断进行人才培养模式的探索与改革，先后承担了相关项目并获奖励。
+										<br>
+										1． 新世纪教改项目三期“渐进式国际化软件人才培养模式的探索与实践”，东华大学，2005年
+										<br>
+										2． “计算机创新人才培养模式研究” 上海高等教育学会项目2007年
+										<br>
+										3． 新世纪教改项目三期“计算机科学与技术类专业工程教育改革”东华大学2006年
+										<br>
+										4． “软件工程新专业创新性人才培养模式的研究和实验教学体系的建设”，东华大学新世纪教改三期项目，2006年
+										<br>
+										5． “软件工程类课程引进试点改革” 东华大学 2007年。
+										<br>
+										6． “大学城园区高校协作与联合教育的研究” 上海市教育科学规划办 2007--2008年。
+										<br>
+										7． “数据库系统原理上海市重点课程建设”上海市教育委员会、东华大学 2007-2009年
+										<br>
+										8． “数据库系统原理精品课程建设”东华大学教学改革项目2004.12-2006.6。
+										<br>
+										9． “数据库管理实训室（提升）开发” 上海科海计算机网络有限公司，
+										<br>
+										<br>
+										其中“创新教学改革及其在ACM/ICPC中的实践”和“国际化、工程化计算机专业人才培养模式的改革与实践”两个项目分别于2005年、2009年获得上海市级教学成果二等奖。“重理论、强实践数据库人才培养模式的探索与实践
+										于 2008年获东华大学教学成果一等奖。
+										<br>
+										<br>
+										二、对相关课程内容及其教学手段进行了研究与改革，建成了多门校级和上海市级精品课程与重点课程。东华大学校级精品课程具体有：
+										<br>
+										1．《数据库系统原理精品课程》
+										<br>
+										2．《数据结构精品课程》
+										<br>
+										3．《软件工程精品课程》
+										<br>
+										
+										4．《多媒体技术精品课程》
+										<br>
+										5．《C语言程序设计精品课程》
+										<br>
+										上海市精品课程与重点课程具体有：
+										<br>
+										1．《数据库系统原理上海市精品课程》, 《数据库系统原理上海市重点课程》
+										<br>
+										2．《软件工程上海市精品课程》
+										<br>
+										3．《算法分析与设计上海市重点课程》
+										<br>
+										4．《计算机网络上海市重点课程》
+										<br>
+								
+										本教学梯队成员结合课堂与实验教学实践，积极凝练，形成丰富的教学成果，迄今在计算机教育等杂志上发表教学论文6篇。
+										<br>
+										<br>
+										三、经多年努力，成功研制了大型CAI软件系统--《数据库应用仿真实训系统》，提供一种全面真实的实训环境，以帮助学生掌握如何在真实的应用环境下，利用ORACLE数据库或SQL
+										SERVER数据库技术解决具体的应用问题。解决了《数据库系统原理》实践性教学环节的不足，经过近三年的使用，有效地解决了学生学以致用，理论联系实际，提高了学生综合能力、实践能力和创新能力，深受学生欢迎。
+										<br>
+										四、创造国际化、工程化人才培养的环境和条件。将教师工程化培训放在重要位置。引导教师参加ORACLE、IBM的课程培训和其它培训等，近四年先后组织13人次教师参加了ORACLE、IBM软件工程师认证课程和相关IT企业培训，详见下表，多种形式提高教师的国际化、工程化水平。
+										<br></p>
+										  <p align="center"><p class="STYLE1">部分青年教师参加IT培训、认证情况表 </p></p>
+							    <div align="center">
+                                  <table border="1" cellspacing="0" cellpadding="0" width="441">
+                                    <tr>
+                                      <td width="84"><p align="center"><strong>教师</strong><strong> </strong> </p></td>
+                                      <td width="161"><p align="center"><strong>培训</strong><strong>/</strong><strong>认证机构</strong><strong> </strong></p></td>
+                                      <td width="197"><p align="center"><strong>证书</strong><strong> </strong></p></td>
+                                    </tr>
+                                    <tr>
+                                      <td width="84"><p align="center">于守健 </p></td>
+                                      <td width="161"><p align="center">Taradata公司 </p></td>
+                                      <td width="197"><p align="center">Taradata数据仓库DBA全套证书（认证） </p></td>
+                                    </tr>
+                                    <tr>
+                                      <td width="84"><p align="center">陈德华 </p></td>
+                                      <td width="161"><p align="center">Taradata公司 </p></td>
+                                      <td width="197"><p align="center">Taradata数据仓库DBA全套证书（认证） </p></td>
+                                    </tr>
+                                    <tr>
+                                      <td width="84"><p align="center">丁祥武 </p></td>
+                                      <td width="161"><p align="center">IBM公司 </p></td>
+                                      <td width="197"><p align="center">Java 2    Programming Fundamental（认证） </p></td>
+                                    </tr>
+                                    <tr>
+                                      <td width="84"><p align="center">陈德华 </p></td>
+                                      <td width="161"><p align="center">人事部、全国信息化计算机应用技术资格认证管理中心 </p></td>
+                                      <td width="197"><p align="center">全国信息化计算机应用技术资格证书（认证） </p></td>
+                                    </tr>
+                                    <tr>
+                                      <td width="84"><p align="center">石秀金 </p></td>
+                                      <td width="161"><p align="center">上海市信息中心 </p></td>
+                                      <td width="197"><p align="center">ISMS信息安全管理体系建设（培训） </p></td>
+                                    </tr>
+                                    <tr>
+                                      <td width="84"><p align="center">石秀金 </p></td>
+                                      <td width="161"><p align="center">IBM公司 </p></td>
+                                      <td width="197"><p align="center">UML与Rational    建模工具（培训） </p></td>
+                                    </tr>
+                                    <tr>
+                                      <td width="84"><p align="center">于守健 </p></td>
+                                      <td width="161"><p align="center">IBM公司 </p></td>
+                                      <td width="197"><p align="center">IBM    Certified Database Associate DB2 9 Fundmaentals（培训及认证） </p></td>
+                                    </tr>
+                                    <tr>
+                                      <td width="84"><p align="center">石秀金 </p></td>
+                                      <td width="161"><p align="center">IBM公司 </p></td>
+                                      <td width="197"><p align="center">Rational软件测试方法与工具<a name="OLE_LINK6"></a><a name="OLE_LINK5">（培训）</a> </p></td>
+                                    </tr>
+                                    <tr>
+                                      <td width="84"><p align="center">陈德华 </p></td>
+                                      <td width="161"><p align="center">中国科学院计算技术研究所教育中心 </p></td>
+                                      <td width="197"><p align="center">“网络安全管理工程师”认证培训（培训） </p></td>
+                                    </tr>
+                                    <tr>
+                                      <td width="84"><p align="center">丁祥武 </p></td>
+                                      <td width="161"><p align="center">oracle公司 </p></td>
+                                      <td width="197"><p align="center"><a name="OLE_LINK2"></a><a name="OLE_LINK1">Web logic</a>认证培训 </p></td>
+                                    </tr>
+                                    <tr>
+                                      <td width="84"><p align="center">陈德华 </p></td>
+                                      <td width="161"><p align="center">oracle公司 </p></td>
+                                      <td width="197"><p align="center">Web logic认证培训 </p></td>
+                                    </tr>
+                                    <tr>
+                                      <td width="84"><p align="center">于守健 </p></td>
+                                      <td width="161"><p align="center">oracle公司 </p></td>
+                                      <td width="197"><p align="center">Web logic认证培训 </p></td>
+                                    </tr>
+                                    <tr>
+                                      <td width="84"><p align="center">陈德华 </p></td>
+                                      <td width="161"><p align="center">oracle公司 </p></td>
+                                      <td width="197"><p align="center">Oracle11g认证培训 </p></td>
+                                    </tr>
+                                  </table>
+						      </div>
+									<p class="STYLE1"> 
+										&nbsp;&nbsp;&nbsp;&nbsp;积极提升教学国际化的水平。本教师梯队中有海外留学经历的教师3名，其中苏建文教授来自美国南加州大学圣塔巴巴拉分校，2009年9月被聘为东华大学特聘教授，加入到本教学团队中，为师生介绍相关的前沿技术，帮助指导学科发展。 <br>&nbsp;&nbsp;&nbsp;&nbsp;加强与企业之间的人才培养合作关系。与上海计算技术研究所、万达信息技术股份公司联合建立了&ldquo;上海市软件人才联合培养基地&rdquo;，与美国新诗信息科技（上海）有限公司、上海宝信软件有限公司、上海达梦数据库有限公司成立了联合实验室，与10多家软件企业开展了广泛的合作，提高了学生动手能力。聘请了10位有实践经验的知名IT企业的负责人或技术负责人为学院兼职教授，来校讲解数据库系统设计实例，指导实践教学。组织了338名学生参加IBM UML建模认证，组织了428名03级、04级、05级、06级学生参加数据库管理员职业资格认证（ORACLE  DBA、SQL SERVER DBA）工作。提高了学生工程实践的能力，增强学生在就业竞争中的优势。&nbsp; 
+										 
+									</p>
+								</div>
+							</TD>
+						</TR>
+					</TABLE>
+				</TD>
+			</TR>
+			<tr>
+				<td colSpan="11">
+					<IMG src="images/s.jpg">
+				</td>
+			</tr>
+			<TR>
+				<TD width="780" background="images/4.jpg" colSpan="11" height="50"
+					ALT="">
+					<div class="text" style="COLOR: #9b9b9b" align="center">
+						<A href="mailto:jsjxy@dhu.edu.cn"> 意见反馈</A> |
+						<A
+							onClick="window.external.AddFavorite(location.href, document.title);"
+							href="javascript:void(0);"> 加入收藏 </A>|
+						<A
+							onClick="this.style.behavior='url(#default#homepage)';this.setHomePage(window.location.href);return false"
+							href="#"> 设为首页</A>
+						<br>
+						Copyright &copy; 2006 Donghua University. All rights reserved.
+						<br>
+						东华大学计算机科学与技术学院 版权所有
+					</div>
+				</TD>
+			</TR>
+			<TR>
+				<TD width="228" height="1">
+					<IMG height="1" alt="" src="images/spacer.gif" width="228">
+				</TD>
+				<TD width="78" height="1">
+					<IMG height="1" alt="" src="images/spacer.gif" width="78">
+				</TD>
+				<TD width="67" height="1">
+					<IMG height="1" alt="" src="images/spacer.gif" width="67">
+				</TD>
+				<TD width="235" height="1">
+					<IMG height="1" alt="" src="images/spacer.gif" width="17">
+				</TD>
+				<TD width="52" height="1">
+					<IMG height="1" alt="" src="images/spacer.gif" width="52">
+				</TD>
+				<TD width="58" height="1">
+					<IMG height="1" alt="" src="images/spacer.gif" width="58">
+				</TD>
+				<TD width="57" height="1">
+					<IMG height="1" alt="" src="images/spacer.gif" width="57">
+				</TD>
+				<TD width="63" height="1">
+					<IMG height="1" alt="" src="images/spacer.gif" width="63">
+				</TD>
+				<TD width="52" height="1">
+					<IMG height="1" alt="" src="images/spacer.gif" width="52">
+				</TD>
+				<TD width="63" height="1">
+					<IMG height="1" alt="" src="images/spacer.gif" width="63">
+				</TD>
+				<TD width="45" height="1">
+					<IMG height="1" alt="" src="images/spacer.gif" width="45">
+				</TD>
+			</TR>
+		</TABLE>
+		<!-- End ImageReady Slices -->
+	</BODY>
+</HTML>

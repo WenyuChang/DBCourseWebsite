@@ -1,0 +1,208 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>无标题文档</title>
+<style type="text/css">
+<!--
+.STYLE14 {font-family: "宋体"; font-size: 10pt; color: #000000; padding-left: 20; padding-right: 10; }
+.STYLE16 {font-size: 10pt; font-family: "宋体"; }
+.STYLE17 {font-family: "宋体"; font-size: 10pt; color: #000000; padding-left: 20; padding-right: 10; font-weight: bold; }
+.style11 {font-family: "Courier New", Courier, mono; font-size: 12px; font-weight: bold; }
+.text {font-family:Tahoma,sans-serif; font-size: 10pt; color:#000000; padding-left:20; padding-right:10 }
+.STYLE18 {
+	font-family: "宋体";
+	font-size: 10.0pt;
+}
+.STYLE19 {font-family: "宋体"}
+-->
+</style>
+</head>
+
+<body>
+<table width="675" height="93" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="2"><table class="zi" height="202" cellspacing="0" bordercolordark="#ffffff" cellpadding="0" width="95%" align="center" bordercolorlight="#cccccc" border="1" id="table7">
+      <tr>
+        <td class="zi2" width="30%" bgcolor="#f3f3f3" rowspan="8"><div align="center"> 
+			<img border="0" src="images/image002.jpg" width="95" height="136">　</div></td>
+        <td class="style11" width="24%" bgcolor="#f3f3f3" height="25"><div class="style11" align="center"> 姓 名</div></td>
+        <td class="text" width="46%" height="25">于守健</td>
+      </tr>
+      <tr>
+        <td class="style11" bgcolor="#f3f3f3" height="25"><div class="style11" align="center"> 性 别</div></td>
+        <td class="text">男</td>
+      </tr>
+      <tr>
+        <td class="style11" bgcolor="#f3f3f3" height="25"><div class="style11" align="center"> 出生年月</div></td>
+        <td class="text">1976.10 </td>
+      </tr>
+      <tr>
+        <td class="style11" bgcolor="#f3f3f3" height="25"><div class="style11" align="center"> 学 位</div></td>
+        <td class="text">博士</td>
+      </tr>
+      <tr>
+        <td class="style11" bgcolor="#f3f3f3" height="25"><div class="style11" align="center"> 职 称 </div></td>
+        <td class="text"><span style="font-size: 10.5pt; font-family: 宋体">副教授</span></td>
+      </tr>
+      <tr>
+        <td class="style11" bgcolor="#f3f3f3" height="25"><div class="style11" align="center"> 所在院系</div></td>
+        <td class="text"> 计算机学院软件与理论系</td>
+      </tr>
+      <tr>
+        <td class="style11" bgcolor="#f3f3f3" height="25"><div class="style11" align="center"> Email</div></td>
+        <td class="text"> <a href="mailto:jackyysj@dhu.edu.cn">jackyysj@dhu.edu.cn</a></td>
+      </tr>
+      <tr>
+        <td class="style11" bgcolor="#f3f3f3" height="25"><div class="style11" align="center"> 通讯地址</div></td>
+        <td class="text"> 上海市延安西路1882号 </td>
+      </tr>
+    </table>
+        <div align="center">
+          <center>
+            <table width="95%" border="0" id="table8">
+              <tr>
+                <td align="left"><p class="STYLE14" style="LINE-HEIGHT: 150%"><strong>近年来讲授的主要课程：</strong></p>
+                    <table style="margin-left: 20px; margin-right: 20px"  cellspacing="0" width="95%" border="1">
+                      <tr bgcolor="#dee5ed">
+                        <td width="232" bgcolor="#dee5ed"><div align="center" class="STYLE16">课程名称</div></td>
+                        <td><div align="center" class="STYLE16">课程类别</div></td>
+                        <td bgcolor="#dee5ed"><div align="center" class="STYLE16">周学时</div></td>
+                        <td><div align="center" class="STYLE16">届数</div></td>
+                        <td><div align="center" class="STYLE16">学生总人数</div></td>
+                      </tr>
+                      <tr>
+                        <td width="232"><div align="center" class="STYLE16">
+							<span lang="EN-US" style="font-size: 9.0pt; font-family: 宋体">
+							Oracle</span><span style="font-size: 9.0pt; font-family: 宋体">与数据库管理</span></div></td>
+                        <td><div align="center" class="STYLE16">专业课</div></td>
+                        <td><div align="center" class="STYLE16">
+							<span lang="EN-US" style="font-size: 10.0pt; font-family: 宋体">
+							周2学时</span></div></td>
+                        <td><div align="center" class="STYLE16"><span class="STYLE18">4</span></div></td>
+                        <td><div align="center" class="STYLE16">
+							<span lang="EN-US" style="font-size: 10.0pt; font-family: 宋体"><span class="STYLE19">共320人</span>							</span></div></td>
+                      </tr>
+                      <tr>
+                        <td width="232"><div align="center" class="STYLE16">
+							<span style="font-size: 9.0pt; font-family: 宋体">软件过程</span></div></td>
+                        <td><div align="center" class="STYLE16">专业课</div></td>
+                        <td><div align="center" class="STYLE16">
+							<span lang="EN-US" style="font-size: 10.0pt; font-family: 宋体">
+							周2学时</span></div></td>
+                        <td><div align="center" class="STYLE16"><span class="STYLE18">3</span></div></td>
+                        <td><div align="center" class="STYLE16">
+							<span lang="EN-US" style="font-size: 10.0pt; font-family: 宋体"><span class="STYLE19">共100人</span>							</span></div></td>
+                      </tr>
+                      <tr>
+                        <td width="232" align="center">
+						<span style="font-size: 10.0pt; font-family: 宋体">软件结构与设计</span></td>
+                        <td align="center">
+						<span style="font-size: 10.0pt; font-family: 宋体">专业课</span></td>
+                        <td align="center">
+						<span lang="EN-US" style="font-size: 10.0pt; font-family: 宋体">
+						周2学时</span></td>
+                        <td align="center">
+						<span lang="EN-US" style="font-size: 10.0pt; font-family: 宋体">
+						3</span></td>
+                        <td align="center"><span class="STYLE18">共280人</span></td>
+                      </tr>
+                      <tr>
+                        <td width="232" align="center">
+						<span style="font-size: 10.0pt; font-family: 宋体">软件开发技术</span></td>
+                        <td align="center">
+						<span style="font-size: 10.0pt; font-family: 宋体">专业课</span></td>
+                        <td align="center">
+						<span style="font-size: 10.5pt; font-family: 宋体;">周</span><span lang="EN-US" style='font-size: 10.5pt; font-family: "Times New Roman","serif";'>2</span><span style="font-size: 10.5pt; font-family: 宋体;">学时</span></td>
+                        <td align="center">2</td>
+                        <td align="center">
+						<span lang="EN-US" style="font-size: 10.0pt; font-family: 宋体">
+						共180人</span></td>
+                      </tr>
+                      <tr>
+                        <td width="232" align="center">
+						<span style="font-size: 10.0pt; font-family: 宋体">
+						软件开发环境与工具</span></td>
+                        <td align="center">
+						<span style="font-size: 10.0pt; font-family: 宋体">专业课</span></td>
+                        <td align="center">
+						<span lang="EN-US" style="font-size: 10.0pt; font-family: 宋体">
+						周2学时</span></td>
+                        <td align="center"><span class="STYLE18">3</span></td>
+                        <td align="center"><span class="STYLE18">共280人</span></td>
+                      </tr>
+                    </table>
+                  <p class="STYLE14"><strong>近五年来承担的实践性教学：</strong> </p>
+                  <ol class="STYLE14">
+                      <li>
+                        <p>
+						<span style="font-size: 10.5pt; font-family: 宋体; color: black">
+						数据库课程设计、软件开发环境与工具课程设计等 共计150人。</p>
+                      </li>
+                    <li>
+                        <p>
+						<span style="font-size: 10.5pt; font-family: 宋体; color: black">
+						指导课外科技活动70人。
+</p>
+                    </li>
+						<li>
+						<p>
+						指导本科毕业设计14人。</p>
+						</li>
+                  </ol>
+				   <p class="STYLE14"><strong>近五年来研究课题：</strong> </p>
+				   <ol class="STYLE14">
+                      <li class="STYLE14">
+                        <p>
+						<span lang="EN-US" style="font-size: 10.5pt; font-family: Times New Roman">
+						2005.11-2007.10，城市信息化智能决策应急指挥系统研发，上海市科委，40万，排名第3。</span></p>
+                      </li>
+					  <li>
+					  <p><span lang="EN-US" style="font-size: 10.5pt; font-family: Times New Roman">
+					  2005.10-2006.10， 数据库管理实训室提升开发，上海科海计算机网络有限公司，18万，排名第2。</span></p>
+					  </li>
+					  <li>
+					  <p><span lang="EN-US" style="font-size: 10.5pt; font-family: Times New Roman">
+					  2005.10-2006.4，上海宝钢钢材贸易有限公司集约式销售平台开发，上海宝钢钢材贸易有限公司，6万，排名第2。</span></p>
+					  </li>
+					  <li>
+					  <p><span lang="EN-US" style="font-size: 10.5pt; font-family: Times New Roman">
+					  2005.12-2007.12， Web服务自动组合技术研究，校基金，1万元，负责人。</span></p>
+					  </li>
+					  </ol>
+					  
+                  
+                  <p class="STYLE17">学术论文：</p>
+                  <ol class="STYLE14">
+                      <li class="STYLE14">
+                        <p>
+						<span lang="EN-US" style="font-size: 10.5pt; font-family: Times New Roman">
+						Automatic Composition for Web Service by Computing its 
+						WSDL Interface Similarity, Journal of Computational 
+						Information Systems Vol. 3 No.4 (2007) 1629-163</span>4.</p>
+                      </li>
+                    <li class="STYLE14">
+                        <p>
+						<span lang="EN-US" style="font-size: 10.5pt; font-family: Times New Roman">
+						A Novel Web Service Catalog System Supporting 
+						Distributed Service Publication and Discovery</span><span style="font-size: 10.5pt; font-family: 宋体">，</span><span lang="EN-US" style="font-size: 10.5pt; font-family: Times New Roman">Proceedings 
+						of First International Multi-symposiums on Computer and 
+						Computational Sciences, IEEE Press, June 2006</span></p>
+                    </li>
+                    <li class="STYLE14">
+                        <p>
+						<span lang="EN-US" style="font-size: 10.5pt; font-family: Times New Roman">
+						BPEL</span><span style="font-size: 10.5pt; font-family: 宋体">中基于有限状态自动机的</span><span lang="EN-US" style="font-size: 10.5pt; font-family: Times New Roman">Web</span><span style="font-size: 10.5pt; font-family: 宋体">服务自动组合</span><span lang="EN-US" style="font-size: 10.5pt; font-family: Times New Roman">,
+						</span><span style="font-size: 10.5pt; font-family: 宋体">
+						小型微型计算机系统</span><span lang="EN-US" style="font-size: 10.5pt; font-family: Times New Roman">, 
+						Vol. 28 No.4 (2007) 742-747</span> </p>
+                    </li>
+                  </ol></td>
+              </tr>
+            </table>
+          </center>
+        </div></td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,671 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="zhsy.files/filelist.xml">
+<title>数据库系统原理 综合实验指导书</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>陈泽滨</o:Author>
+  <o:LastAuthor>WC</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>134</o:TotalTime>
+  <o:Created>2006-05-16T03:47:00Z</o:Created>
+  <o:LastSaved>2006-05-16T03:47:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>283</o:Words>
+  <o:Characters>1616</o:Characters>
+  <o:Company>雪城哀怜</o:Company>
+  <o:Lines>13</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>1896</o:CharactersWithSpaces>
+  <o:Version>11.6408</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:PunctuationKerning/>
+  <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:SelectEntireFieldWithStartOrEnd/>
+   <w:UseWord2002TableStyleRules/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+p.MsoBodyTextIndent, li.MsoBodyTextIndent, div.MsoBodyTextIndent
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	text-indent:21.0pt;
+	mso-pagination:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+p.MsoBodyTextIndent2, li.MsoBodyTextIndent2, div.MsoBodyTextIndent2
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	text-indent:18.0pt;
+	mso-pagination:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;
+	layout-grid:15.6pt;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:893732273;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-120975362 -1400723860 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l0:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;}
+@list l1
+	{mso-list-id:1545436354;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1533313526 -586754428 1172083474 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l1:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;}
+@list l1:level2
+	{mso-level-text:（%2）;
+	mso-level-tab-stop:57.0pt;
+	mso-level-number-position:left;
+	margin-left:57.0pt;
+	text-indent:-36.0pt;}
+@list l2
+	{mso-list-id:2094661984;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1397874750 1541021646 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l2:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+
+<body lang=ZH-CN style='tab-interval:21.0pt;text-justify-trim:punctuation'>
+
+<div class=Section1 style='layout-grid:15.6pt'>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:18.0pt;mso-bidi-font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>数据库系统原理综合实验指导书</span></b><b><span
+lang=EN-US style='font-size:18.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>综合实验目的</span></b><b><span lang=EN-US style='font-size:16.0pt;
+mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoBodyTextIndent><span style='font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>数据库系统原理是软件工程专业重要的专业课程之一，数据库系统原理综合实验是学习《数据库系统原理》时配套进行的一次全面的综合练习。本实验的目的在于巩固学生对数据库基本原理和基础理论的理解，掌握数据库应用系统设计开发的基本方法，进一步提高学生综合运用所学知识的能力。</span></p>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>综合实验的内容与要求</span></b><b><span lang=EN-US style='font-size:
+16.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-indent:18.0pt'><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>以</span><span lang=EN-US style='font-size:12.0pt'>SQL
+SERVER2000</span><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>或</span><span
+lang=EN-US style='font-size:12.0pt'>ORACLE9I</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>为后台数据库，以</span><span lang=EN-US style='font-size:12.0pt'>POWERBUILDER</span><span
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>（或其它工具）为前台开发工具，完成一个小型数据库系统的开发。要求学生</span><span
+lang=EN-US style='font-size:12.0pt'>4-5</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>人一组，自愿结合，每组从下列系统中选择一个或自拟课题，完成系统分析、设计和开发。</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:18.0pt;text-indent:-18.0pt;mso-list:l0 level1 lfo1;
+tab-stops:list 18.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+12.0pt;mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>1、</span></span><![endif]><span
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>图书销售管理系统</span><span lang=EN-US
+style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:18.0pt;text-indent:-18.0pt;mso-list:l0 level1 lfo1;
+tab-stops:list 18.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+12.0pt;mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>2、</span></span><![endif]><span
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>通用工资管理系统</span><span lang=EN-US
+style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:18.0pt;text-indent:-18.0pt;mso-list:l0 level1 lfo1;
+tab-stops:list 18.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+12.0pt;mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>3、</span></span><![endif]><span
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>报刊订阅管理系统</span><span lang=EN-US
+style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:18.0pt;text-indent:-18.0pt;mso-list:l0 level1 lfo1;
+tab-stops:list 18.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+12.0pt;mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>4、</span></span><![endif]><span
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>医药销售管理系统</span><span lang=EN-US
+style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:18.0pt;text-indent:-18.0pt;mso-list:l0 level1 lfo1;
+tab-stops:list 18.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+12.0pt;mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>5、</span></span><![endif]><span
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>宾馆客房管理系统</span><span lang=EN-US
+style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:18.0pt;text-indent:-18.0pt;mso-list:l0 level1 lfo1;
+tab-stops:list 18.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+12.0pt;mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>6、</span></span><![endif]><span
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>学生选课管理系统</span><span lang=EN-US
+style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:18.0pt;text-indent:-18.0pt;mso-list:l0 level1 lfo1;
+tab-stops:list 18.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+12.0pt;mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>7、</span></span><![endif]><span
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>网上商店</span><span lang=EN-US
+style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>具体要求</span></b><b><span lang=EN-US style='font-size:16.0pt;
+mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>1</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、针对给定的系统进行需求分析，画出</span><span lang=EN-US style='font-size:
+12.0pt'>E-R</span><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>图，并将其转化为满足</span><span
+lang=EN-US style='font-size:12.0pt'>3NF</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>的关系模式。</span><span lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>2</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、系统中应能体现对数据库的保护（安全性和完整性控制）。</span><span lang=EN-US
+style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>3</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、每组最终提交一个可运行的应用软件和规范的实验设计说明书。</span><span lang=EN-US
+style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>4</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、每组设组长一名，组内成员分工明确、各司其职。</span><span lang=EN-US
+style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>时间、地点安排</span></b><b><span lang=EN-US style='font-size:16.0pt;
+mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>第</span><span lang=EN-US style='font-size:12.0pt'>5~17</span><span
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>周：单周周四下午</span><span lang=EN-US
+style='font-size:12.0pt'>7—8</span><span style='font-size:12.0pt;font-family:
+宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>节，计算机学院系统软件机房内。</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>考核办法</span></b><b><span lang=EN-US style='font-size:16.0pt;
+mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-left:18.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo2;
+tab-stops:list 18.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+12.0pt;mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>1、</span></span><![endif]><span
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>综合实验设计说明书</span><span lang=EN-US
+style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>不少于</span><span
+lang=EN-US style='font-size:12.0pt'>4000</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>字。</span><span lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>封面含：课程名称、综合实验题目、班级、姓名、学号、指导教师、设计日期。</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>正文含：需求分析、概念设计、逻辑设计、物理设计、测试、用户使用说明、参考文献。</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:18.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo2;
+tab-stops:list 18.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+12.0pt;mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>2、</span></span><![endif]><span
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>开发的应用软件</span><span lang=EN-US
+style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>提交源程序，最好能打包提供安装盘。</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:18.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo2;
+tab-stops:list 18.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+12.0pt;mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>3、</span></span><![endif]><span
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>考勤与遵守纪律情况</span><span lang=EN-US
+style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>各系统具体要求</span></b><b><span lang=EN-US style='font-size:16.0pt;
+mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-left:18.0pt;text-indent:-18.0pt;mso-list:l1 level1 lfo3;
+tab-stops:list 18.0pt'><![if !supportLists]><b><span lang=EN-US
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>1、<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><b><span style='font-size:14.0pt;mso-bidi-font-size:
+12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>图书销售管理系统</span></b><b><span lang=EN-US style='font-size:
+14.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoBodyTextIndent2><span style='font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>调查新华书店图书销售业务、设计的图书销售管理系统主要包括进货、退货、统计、销售功能。</span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>1</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、进货：根据某种图书的库存量及销售情况确定进货数量，根据供应商报价选择供应商。输出进货单并自动修改库存量，把进货信息加到进货库中。</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>2</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、退货：顾客将已买的书退还给书店。输出退货单并自动修改库存量，把退货信息加到退货库中。</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>3</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、统计：根据销售情况输出统计报表，一般包括每月的销售总额、销售总量及销售排行榜。</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>4</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）销售：输入顾客要买书籍的信息，自动显示此书的库存量，如可以销售，打印销售单并修改库存，同时将此次销售的有关信息填加到日销售库中。</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:18.0pt;text-indent:-18.0pt;mso-list:l1 level1 lfo3;
+tab-stops:list 18.0pt'><![if !supportLists]><b><span lang=EN-US
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>2、<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><b><span style='font-size:14.0pt;mso-bidi-font-size:
+12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>通用工资管理系统</span></b><b><span lang=EN-US style='font-size:
+14.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-indent:18.0pt'><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>考察某中小型企业，设计一套企业工资管理系统，其中应具有一定的人事档案管理功能。通过对职工建立人事档案，根据其考勤情况以及相应的工资级别，算出其相应的工资。为了减少输入帐目的错误，可以根据职工的考勤、职务、部门和各种税费自动求出工资。</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:18.0pt'><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>为便于掌握企业的工资信息，在系统中应有各种查询功能，包括个人信息、职工工资、本企业一个月工资情况查询、某一部门的工资情况查询。系统应能输出各种统计报表。</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:18.0pt;text-indent:-18.0pt;mso-list:l1 level1 lfo3;
+tab-stops:list 18.0pt'><![if !supportLists]><b><span lang=EN-US
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>3、<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><b><span style='font-size:14.0pt;mso-bidi-font-size:
+12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>报刊订阅管理系统</span></b><b><span lang=EN-US style='font-size:
+14.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-indent:18.0pt'><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>通过对某企业的报刊订阅业务进行分析、调查，设计该企业的报刊订阅管理系统。主要实现以下功能：</span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>1</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、录入功能：录入订阅人员信息、报刊基本信息。</span><span lang=EN-US
+style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>2</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、订阅管理：订阅人员订阅报刊（并计算出金额）。</span><span lang=EN-US
+style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>3</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、查询功能：按人员查询、报刊查询、部门查询有关订阅信息。对查询结果能预览和打印。</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>4</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、统计功能：按报刊统计、按人员统计、按部门统计，对统计结果能预览和打印。</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>5</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、系统维护。</span><span lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:18.0pt;text-indent:-18.0pt;mso-list:l1 level1 lfo3;
+tab-stops:list 18.0pt'><![if !supportLists]><b><span lang=EN-US
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>4、<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><b><span style='font-size:14.0pt;mso-bidi-font-size:
+12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>医药销售管理系统</span></b><b><span lang=EN-US style='font-size:
+14.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>调查从事医药产品的零售、批发等工作的企业，根据具体情况设计医药销售管理系统。主要功能包括：</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:57.0pt;text-indent:-36.0pt;mso-list:l1 level2 lfo3;
+tab-stops:list 57.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+12.0pt;mso-bidi-font-family:宋体'><span style='mso-list:Ignore'>（1）<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>基础信息管理：药品信息、员工信息、客户信息、供应商信息等</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:57.0pt;text-indent:-36.0pt;mso-list:l1 level2 lfo3;
+tab-stops:list 57.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+12.0pt;mso-bidi-font-family:宋体'><span style='mso-list:Ignore'>（2）<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>进货管理：入库登记、入库登记查询、入库报表等。</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:57.0pt;text-indent:-36.0pt;mso-list:l1 level2 lfo3;
+tab-stops:list 57.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+12.0pt;mso-bidi-font-family:宋体'><span style='mso-list:Ignore'>（3）<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>库房管理：库存查询、库存盘点、退货处理、库存报表等。</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:57.0pt;text-indent:-36.0pt;mso-list:l1 level2 lfo3;
+tab-stops:list 57.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+12.0pt;mso-bidi-font-family:宋体'><span style='mso-list:Ignore'>（4）<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>销售管理：销售登记、销售退货、销售报表及相应的查询等。</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:57.0pt;text-indent:-36.0pt;mso-list:l1 level2 lfo3;
+tab-stops:list 57.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+12.0pt;mso-bidi-font-family:宋体'><span style='mso-list:Ignore'>（5）<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>财务统计：当日统计、当月统计及相应报表等。</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:57.0pt;text-indent:-36.0pt;mso-list:l1 level2 lfo3;
+tab-stops:list 57.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+12.0pt;mso-bidi-font-family:宋体'><span style='mso-list:Ignore'>（6）<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>系统维护。</span><span lang=EN-US
+style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:18.0pt;text-indent:-18.0pt;mso-list:l1 level1 lfo3;
+tab-stops:list 18.0pt'><![if !supportLists]><b><span lang=EN-US
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>5、<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><b><span style='font-size:14.0pt;mso-bidi-font-size:
+12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>宾馆客房管理系统</span></b><b><span lang=EN-US style='font-size:
+14.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>考察本市的宾馆，设计客房管理系统，要求：</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>1</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、方便的登记、结帐功能、预定客房功能、支持团体登记、结帐。</span><span lang=EN-US
+style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>2</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、能快速了解宾馆内客房状态。</span><span lang=EN-US style='font-size:
+12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>3</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、多种方式查询客人信息。</span><span lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>4</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、完善的结帐报表。</span><span lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>5</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、安全的系统维护。</span><span lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:18.0pt;text-indent:-18.0pt;mso-list:l1 level1 lfo3;
+tab-stops:list 18.0pt'><![if !supportLists]><b><span lang=EN-US
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>6、<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><b><span style='font-size:14.0pt;mso-bidi-font-size:
+12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>学生选课管理系统</span></b><b><span lang=EN-US style='font-size:
+14.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>调查所在的学校教务处，设计学生选课管理系统。要求：</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>1</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、选修课程计划管理。</span><span lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>2</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、选修课程开课管理。</span><span lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>3</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、学生选课管理。</span><span lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>4</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、学生选课成绩管理。</span><span lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（</span><span
+lang=EN-US style='font-size:12.0pt'>5</span><span style='font-size:12.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>）、打印报表。</span><span lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>要求：设计学生选课录入界面及学生选课查询界面。</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt'><span
+style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>设计课程输入界面、学生选课表、课程选修情况查询界面。</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt'><span
+style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>选课冲突时，按学号或其他分配课程。</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt'><span
+style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>系统维护。</span><span lang=EN-US
+style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:18.0pt;text-indent:-18.0pt;mso-list:l1 level1 lfo3;
+tab-stops:list 18.0pt'><![if !supportLists]><b><span lang=EN-US
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>7、<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><b><span style='font-size:14.0pt;mso-bidi-font-size:
+12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>网上商店</span></b><b><span lang=EN-US style='font-size:14.0pt;
+mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>调查当当网、掏宝网等网上商店的功能，调研并选择一个自认为有前途的领域设计开发网上商店。</span><span
+lang=EN-US style='font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

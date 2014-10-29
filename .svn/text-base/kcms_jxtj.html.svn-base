@@ -1,0 +1,150 @@
+<HTML>
+	<HEAD>
+		<meta http-equiv="Content-Language" content="zh-cn">
+		<TITLE>数据库系统原理</TITLE>
+		<META http-equiv="Content-Type" content="text/html; charset=gb2312">
+		<style type="text/css"> 
+		<!-- .header {font-family:Tahoma, sans-serif; font-size: 12px; COLOR:#2FFFFF; padding-left:10; padding-right:5; font-weight:900 }
+	.text {font-family:Tahoma,sans-serif; font-size: 11px; color:#ffffff; padding-left:20; padding-right:10 }
+	.text2 {font-family:Verdana,sans-serif; font-size: 10px; color:#ffffff; padding-left:20; padding-right:10 }
+	.news {font-family:Arial, sans-serif; font-size: 9px; color:#ffffff; padding-left:10; padding-right:5; font-weight:900; }
+	a:link{text-decoration: none; color:#004FDF}
+	a:visited{text-decoration: none; color: #004FDF}
+	a:hover{text-decoration: underline; color: #004FDF}
+	a:active{text-decoration: none; color: #004FDF}
+	li { list-style : url("images/11.jpg"); }
+.STYLE1 {
+	font-size: 10pt;
+	font-family: "宋体";
+}
+.STYLE4 {font-size: 10pt}
+	-->
+		</style>
+	</HEAD>
+	<BODY bgColor="#ffffff" leftMargin="0" background="images/bg.jpg" topMargin="0" MARGINHEIGHT="0"
+		MARGINWIDTH="0">
+		<!-- ImageReady Slices (14.psd) -->
+		<TABLE height="100%" cellSpacing="0" cellPadding="0" width="780" align="center" bgColor="#ffffff"
+			border="0">
+			<TR>
+				<td width="1" rowSpan="100" bgColor="#000000"><IMG src="images/spacer.gif" with="1"></td>
+				<TD width="275" height="95"><img height="95" alt="" src="images/1.jpg" width="228"></TD>
+				<TD height="95"><a href="index.html"><IMG height="95" alt="" src="images/5.jpg" width="78" border="0"></a></TD>
+				<TD height="95" align="center"><a href="kcfzr.html"><IMG height="95" alt="" src="images/6.jpg" width="67" border="0"></a></TD>
+				<TD colSpan="2" height="95" align="center"><a href="jsdw.html"><img height="95" alt="" src="images/8.jpg" width="58" border="0"></a></TD>
+				<TD width="69" height="95"><a href="http://222.204.215.5:8090/" target="_blank"><img height="95" alt="" src="images/12.jpg" width="63" border="0"></a></TD>
+				<TD width="63" height="95"><a href="zjjs.html"><img height="95" alt="" src="images/7.jpg" width="69" border="0"></a></TD>
+				<TD width="63" height="95"><a href="kcms.html"><img height="95" alt="" src="images/9.jpg" width="57" border="0"></a></TD>
+				<TD width="52" height="95"><a href="kcgh.html"><IMG height="95" alt="" src="images/11.jpg" width="52" border="0"></a></TD>
+				<TD width="63" height="95"><a href="zwpj.html"><img height="95" alt="" src="images/10.jpg" width="63" border="0"></a></TD>
+				<TD width="45" height="95"><IMG height="95" alt="" src="images/13.jpg" width="45"></TD>
+				<td width="1" rowSpan="100" bgColor="#000000"><IMG src="images/spacer.gif" with="1"></td>
+			</TR>
+			<TR>
+				<TD vAlign="top" width="780" background="images/_26.jpg" colSpan="11" height="100%">
+					<TABLE height="93" cellSpacing="0" cellPadding="0" width="780" border="0">
+						<TR>
+							<TD background="images/r_02.jpg" colSpan="5" height="24" ALT="">
+								<div class="text" style="PADDING-LEFT: 10px; FONT-SIZE: 12px; COLOR: #cfcfcf" align="left">
+									<strong><span style="color: #819EE0">课程描述</span></strong>
+								</div>
+							</TD>
+						</TR>
+						<TR>
+							<TD width="700" background="images/r_04.jpg" colSpan="5" height="37" ALT="">
+								<div class="text" style="FONT-SIZE: 10pt">
+									<strong style="COLOR: #f69c00">
+									<a href="kcms.html">
+									<span style="color: #F69C00">历史沿革</span></a>
+										| <a href="kcms_llkjxnr.html">
+									<span style="color: #F69C00">理论课教学内容</span></a> | 
+									<a style="COLOR: #f69c00" href="kcms_sykjxnr.html">实验课教学内容</a> | 
+									<a style="COLOR: #f69c00" href="kcms_jxtj.html">教学条件</a> | 
+									<a style="COLOR: #f69c00" href="kcms_jjffysd.html">教学方法与手段</a></strong>
+								</div>
+							</TD>
+						</TR>
+						<TR>
+							<TD width="274" height="32" ALT="">
+								<div class="text" style="PADDING-RIGHT: 0px; PADDING-LEFT: 25px; COLOR: #000000; PADDING-TOP: 15px">
+									<strong>教学条件 </strong>:</div>
+							</TD>
+							<TD width="116" height="32" ALT=""></TD>
+						</TR>
+						<TR>
+							<TD colspan="2"><div class="text" style="PADDING-RIGHT: 25px; PADDING-LEFT: 25px; COLOR: #000000; PADDING-TOP: 1px">
+
+<p align="center"><table width="200" border="1" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td><img src="images/sys1.jpg" width="192" height="144"></td>
+    <td><img src="images/sy2.jpg" width="192" height="144"></td>
+    <td><img src="images/sy3.jpg" width="192" height="144"></td>
+  </tr>
+  <tr>
+    <td align="center"><span class="STYLE4">实验室</span></td>
+    <td align="center"><span class="STYLE4">服务器机房</span></td>
+    <td><div align="center" class="STYLE4">多媒体教学环境</div></td>
+  </tr>
+</table></p>
+						      <p align="left"><strong>1&nbsp;教材使用与建设</strong>
+						          <br> 
+						          <span class="STYLE1">　　本课程采用新世纪计算机专业系列教材《数据库系统教程》（施伯乐、丁宝康编著，高等教育出版社），该教材是国内数据库教学的经典教材，一方面反映领域基础性、普遍性的知识，保持内容体系的完整，另一方面又紧跟科技发展，内容丰富，体系结构严谨，概念清晰，易学易懂，符合学生的认识规律。针对我院人才培养目标，对课程内容进行了适当的补充与优化，如增加ORACLE数据库管理系统的内容，编写数据库有关教材2本，编译ORACLE数据库管理系统教材3本。</span><br>
+						          <br>
+					              <strong>2&nbsp;促进学生主动学习的扩充性资料使用情况</strong><br>
+					              <span class="STYLE1">　　为了使学生掌握数据库原理及应用的基本知识与技能，培养学生的自学能力，激发学生的学习热情，数据库系统原理课题组开发了与教材配套的实用的PowerPoint电子教案，建立了集所有教学资源于一体的课程支撑网站（包含视频展示、在线学习、模拟练习、在线自测、实验指导、和数据库应用仿真实训系统等模块），搭建了师生间良好的沟通渠道。<br>
+					                    </span><br>
+						          <strong>3&nbsp;配套实验教材的教学效果</strong><br>
+						          <span class="STYLE1">　　学院购买了三版有关Oracle数据库管理系统的原版电子教材，另外有SQL Server、DB2等数据库管理系统和JSP、ASP等前端开发工具的书籍很多（包括网上电子书籍），基本能够满足老师和学生的需要。此外课程教学网站上还提供了大量教学参考资料和文献，以供学生自学辅导。在实验教学中也要求学生充分发挥自身的能动性，主动寻找资料、主动进行学习，培养自主查阅资料和进行学习研究的能力。</span><br>
+						          <br>
+					              <strong>4&nbsp;实践性教学环境</strong><br>
+							      
+					              <span class="STYLE1">　　实验环境是完成实验教学的重要条件，目前我们学院内的实验室下设1个服务器机房、5个本科生实验室（系统软件实验室、应用软件实验室、组成原理与嵌入式系统实验室、网络工程实验室、信息安全实验室），另外还有研究生专用实验室和网格计算教学演示中心。实验室总面积约620平方米，仪器设备413台（套），设备与软件总值约360万，可以同时容纳300余名学生上机实验，足以保障实践教学的正常有序开展。
+					              <br>
+					              　　自行设计、开发和应用了网络学习平台，为学生开展《数据库系统原理》的研究性学习与合作学习创造了有利条件。
+					              <br>
+					              　　学院先后与上海计算技术研究所、万达信息技术股份公司联合建立了大型软件人才联合培养基地。在上海软件中心、宝信软件、文思创新软件公司等建立了国内十几家著名企业建立了稳定的校外实习基地。与美国Oracle公司，IBM公司，Sybase公司、Teradata公司等建立了广泛的合作关系，与国产数据库厂商达梦公司成立了“东华－达梦数据库技术实验室”。学院的上海市实验教学示范中心设有一个专用的服务器机房，装有Oracle、DB2、Sybase和SQL Server数据库管理系统，可以同时容纳280余名学生上机实验，保障了数据库实践教学的正常有序开展。
+					              </span></p>
+							    <p>
+                                 
+                                  <strong>5&nbsp;网络教学环境</strong><br>
+					              <span class="STYLE1">　　目前，《数据库系统原理》课程的支撑网站已经公开上网，该网站主要包含视频展示、在线学习、模拟练习、在线自测、实验指导等模块，在本科教学中发挥着巨大作用。它方便了学生学习，实现了互动教学。学生可以通过论坛、发送邮件等多种方式实现教师与学生之间、学生与学生之间的本地、异地交流；个别、群体交流。此外，网上《数据库应用仿真实训系统》提供了一种全面真实的实训环境，以帮助学生掌握如何在真实的应用环境下，利用ORACLE数据库或SQL SERVER数据库技术解决具体的应用问题。</span></p>
+							</div></TD>
+						</TR>
+					</TABLE>
+				</TD>
+			</TR>
+			<tr>
+				<td colSpan="11"><IMG src="images/s.jpg" width="780" height="14">
+				</td>
+			</tr>
+			<TR>
+				<TD width="780" background="images/4.jpg" colSpan="11" height="50" ALT="">
+					<div class="text" style="COLOR: #9b9b9b" align="center"><A href="mailto:jsjxy@dhu.edu.cn">
+						意见反馈</A>
+						| <A onClick="window.external.AddFavorite(location.href, document.title);" href="javascript:void(0);">
+							加入收藏 </A>|<A onClick="this.style.behavior='url(#default#homepage)';this.setHomePage(window.location.href);return false"
+							href="#"> 设为首页</A><br>
+						Copyright &copy; 2006 Donghua University. All rights 
+						reserved.
+						<br>
+						东华大学计算机科学与技术学院 版权所有
+					</div>
+				</TD>
+			</TR>
+			<TR>
+				<TD width="228" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="228"></TD>
+				<TD width="78" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="78"></TD>
+				<TD width="67" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="67"></TD>
+				<TD width="235" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="17"></TD>
+				<TD width="52" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="52"></TD>
+				<TD width="58" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="58"></TD>
+				<TD width="57" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="57"></TD>
+				<TD width="63" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="63"></TD>
+				<TD width="52" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="52"></TD>
+				<TD width="63" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="63"></TD>
+				<TD width="45" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="45"></TD>
+			</TR>
+		</TABLE>
+		<!-- End ImageReady Slices -->
+	</BODY>
+</HTML>

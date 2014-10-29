@@ -1,0 +1,124 @@
+<HTML>
+	<HEAD>
+		<TITLE>数据库系统原理</TITLE>
+		<META http-equiv="Content-Type" content="text/html; charset=gb2312">
+		<style type="text/css"> 
+		<!-- .header {font-family:Tahoma, sans-serif; font-size: 12px; COLOR:#2FFFFF; padding-left:10; padding-right:5; font-weight:900 }
+	.text {font-family:Tahoma,sans-serif; font-size: 11px; color:#ffffff; padding-left:20; padding-right:10 }
+	.text2 {font-family:Verdana,sans-serif; font-size: 10px; color:#ffffff; padding-left:20; padding-right:10 }
+	.news {font-family:Arial, sans-serif; font-size: 9px; color:#ffffff; padding-left:10; padding-right:5; font-weight:900; }
+	a:link{text-decoration: none; color:#004FDF}
+	a:visited{text-decoration: none; color: #004FDF}
+	a:hover{text-decoration: underline; color: #004FDF}
+	a:active{text-decoration: none; color: #004FDF}
+	li { list-style : url("images/11.jpg"); }
+.style2 {
+	font-size: 10pt;
+	font-family: "宋体";
+}
+	--></style>
+	</HEAD>
+	<BODY bgColor="#ffffff" leftMargin="0" background="images/bg.jpg" topMargin="0" MARGINHEIGHT="0"
+		MARGINWIDTH="0">
+		<!-- ImageReady Slices (14.psd) -->
+		<TABLE height="100%" cellSpacing="0" cellPadding="0" width="780" align="center" bgColor="#ffffff"
+			border="0">
+			<TR>
+				<td width="1" rowSpan="100" bgColor="#000000"><IMG src="images/spacer.gif" with="1"></td>
+				<TD width="275" height="95"><img height="95" alt="" src="images/1.jpg" width="228"></TD>
+				<TD height="95"><a href="index.html"><IMG height="95" alt="" src="images/5.jpg" width="78" border="0"></a></TD>
+				<TD height="95" align="center"><a href="kcfzr.html"><IMG height="95" alt="" src="images/6.jpg" width="67" border="0"></a></TD>
+				<TD colSpan="2" height="95" align="center"><a href="jsdw.html"><img height="95" alt="" src="images/8.jpg" width="58" border="0"></a></TD>
+				<TD width="69" height="95"><a href="http://222.204.215.5:8090/" target="_blank"><img height="95" alt="" src="images/12.jpg" width="63" border="0"></a></TD>
+				<TD width="63" height="95"><a href="zjjs.html"><img height="95" alt="" src="images/7.jpg" width="69" border="0"></a></TD>
+				<TD width="63" height="95"><a href="kcms.html"><img height="95" alt="" src="images/9.jpg" width="57" border="0"></a></TD>
+				<TD width="52" height="95"><a href="kcgh.html"><IMG height="95" alt="" src="images/11.jpg" width="52" border="0"></a></TD>
+				<TD width="63" height="95"><a href="zwpj.html"><img height="95" alt="" src="images/10.jpg" width="63" border="0"></a></TD>
+				<TD width="45" height="95"><IMG height="95" alt="" src="images/13.jpg" width="45"></TD>
+				<td width="1" rowSpan="100" bgColor="#000000"><IMG src="images/spacer.gif" with="1"></td>
+			</TR>
+			<TR>
+				<TD vAlign="top" width="780" background="images/_26.jpg" colSpan="11" height="100%">
+					<TABLE height="93" cellSpacing="0" cellPadding="0" width="780" border="0">
+						<TR>
+							<TD background="images/r_02.jpg" colSpan="5" height="24" ALT="">
+								<div class="text" style="PADDING-LEFT: 10px; FONT-SIZE: 12px; COLOR: #cfcfcf" align="left"><strong style="COLOR: #819ee0">
+									课程规划</strong>
+								</div>
+							</TD>
+						</TR>
+						<TR>
+							<TD width="490" background="images/r_04.jpg" colSpan="5" height="37" ALT="">
+								<div class="text" style="FONT-SIZE: 10pt">
+									<strong style="COLOR: #f69c00">
+									<a href="kcgh.html">
+									<span style="color: #F69C00">建设目标</span></a>
+										| 
+									<a href="kcgh_jsbz.html">
+									<span style="color: #F69C00">建设步骤</span></a> | 
+									<a href="kcgh_swzy.html">
+									<span style="color: #F69C00">上网资源</span></a> </strong>
+								</div>
+							</TD>
+						</TR>
+						<TR>
+							<TD width="374" height="32" ALT="">
+								<div class="text" style="PADDING-RIGHT: 0px; PADDING-LEFT: 25px; COLOR: #000000; PADDING-TOP: 15px">
+									<strong>建设步骤 </strong>:</div>
+							</TD>
+							<TD width="116" height="32" ALT=""></TD>
+						</TR>
+						<TR>
+							<TD colspan="2"><blockquote>
+							  
+							  <p>&nbsp;</p>
+							  <p><span class="style2">　　针对课程的性质、特点、学习对象特征、教学目标、教学策略、媒体辅助方式等方面进行深入系统研究，本着“创新教学手法，面向实际环境，培养实用人才”的思想，组织《数据库系统原理》课程的理论教学内容与实践体系。<br>
+&nbsp;&nbsp;&nbsp;将教师的研究成果不断地融入教学内容，优化设计多个真实案例，建立全真案例库，通过案例教学法，加强学生的感性认识，使学生真正掌握数据库的理论，以及在实际应用中的用处，增进其学习兴趣和动力。<br>
+&nbsp;&nbsp;&nbsp;
+从教师评学、学生评教和用人单位评价等因素的非量化评价指标考虑，建立教学效果评价体系，并指导课程建设。<br>
+&nbsp;&nbsp;&nbsp;
+创建良好的数据库教学环境和强大的师资队伍，加强对青年教师教学素质培养，从而形成一支稳定、并可持续发展的数据库教学团队。<br>
+&nbsp;&nbsp;&nbsp;
+加强立体化教材建设，将国内外最新的技术融入到教学中。<br>
+</span></p>
+							  <p>&nbsp;</p>
+							</blockquote></TD>
+					  </TR>
+					</TABLE>
+				</TD>
+			</TR>
+			<tr>
+				<td colSpan="11"><IMG src="images/s.jpg" width="780" height="14">
+				</td>
+			</tr>
+			<TR>
+				<TD width="780" background="images/4.jpg" colSpan="11" height="50" ALT="">
+					<div class="text" style="COLOR: #9b9b9b" align="center"><A href="mailto:jsjxy@dhu.edu.cn">
+						意见反馈</A>
+						| <A onClick="window.external.AddFavorite(location.href, document.title);" href="javascript:void(0);">
+							加入收藏 </A>|<A onClick="this.style.behavior='url(#default#homepage)';this.setHomePage(window.location.href);return false"
+							href="#"> 设为首页</A><br>
+						Copyright &copy; 2006 Donghua University. All rights 
+						reserved.
+						<br>
+						东华大学计算机科学与技术学院 版权所有
+					</div>
+				</TD>
+			</TR>
+			<TR>
+				<TD width="228" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="228"></TD>
+				<TD width="78" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="78"></TD>
+				<TD width="67" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="67"></TD>
+				<TD width="235" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="17"></TD>
+				<TD width="52" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="52"></TD>
+				<TD width="58" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="58"></TD>
+				<TD width="57" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="57"></TD>
+				<TD width="63" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="63"></TD>
+				<TD width="52" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="52"></TD>
+				<TD width="63" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="63"></TD>
+				<TD width="45" height="1"><IMG height="1" alt="" src="images/spacer.gif" width="45"></TD>
+			</TR>
+		</TABLE>
+		<!-- End ImageReady Slices -->
+	</BODY>
+</HTML>

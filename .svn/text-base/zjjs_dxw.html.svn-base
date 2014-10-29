@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>无标题文档</title>
+<style type="text/css">
+<!--
+.STYLE14 {font-family: "宋体"; font-size: 10pt; color: #000000; padding-left: 20; padding-right: 10; }
+.STYLE16 {font-size: 10pt; font-family: "宋体"; }
+.STYLE17 {font-family: "宋体"; font-size: 10pt; color: #000000; padding-left: 20; padding-right: 10; font-weight: bold; }
+.style11 {font-family: "Courier New", Courier, mono; font-size: 12px; font-weight: bold; }
+.text {font-family:Tahoma,sans-serif; font-size: 10pt; color:#000000; padding-left:20; padding-right:10 }
+-->
+</style>
+</head>
+
+<body>
+<table width="675" height="93" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="2"><table class="zi" height="202" cellspacing="0" bordercolordark="#ffffff" cellpadding="0" width="95%" align="center" bordercolorlight="#cccccc" border="1" id="table7">
+      <tr>
+        <td class="zi2" width="30%" bgcolor="#f3f3f3" rowspan="8"><div align="center"> <img border="0" src="images/dingxiangwu.jpg" width="192" height="144" /></div></td>
+        <td class="style11" width="24%" bgcolor="#f3f3f3" height="25"><div class="style11" align="center"> 姓 名</div></td>
+        <td class="text" width="46%" height="25"> 丁祥武</td>
+      </tr>
+      <tr>
+        <td class="style11" bgcolor="#f3f3f3" height="25"><div class="style11" align="center"> 性 别</div></td>
+        <td class="text">男</td>
+      </tr>
+      <tr>
+        <td class="style11" bgcolor="#f3f3f3" height="25"><div class="style11" align="center"> 出生年月</div></td>
+        <td class="text"> 1963.11</td>
+      </tr>
+      <tr>
+        <td class="style11" bgcolor="#f3f3f3" height="25"><div class="style11" align="center"> 学 位</div></td>
+        <td class="text"> 学士</td>
+      </tr>
+      <tr>
+        <td class="style11" bgcolor="#f3f3f3" height="25"><div class="style11" align="center"> 职 称 </div></td>
+        <td class="text"> 副教授</td>
+      </tr>
+      <tr>
+        <td class="style11" bgcolor="#f3f3f3" height="25"><div class="style11" align="center"> 所在院系</div></td>
+        <td class="text"> 计算机学院软件与理论系</td>
+      </tr>
+      <tr>
+        <td class="style11" bgcolor="#f3f3f3" height="25"><div class="style11" align="center"> Email</div></td>
+        <td class="text"> <a href="mailto:dingxw@dhu.edu.cn">dingxw@dhu.edu.cn</a></td>
+      </tr>
+      <tr>
+        <td class="style11" bgcolor="#f3f3f3" height="25"><div class="style11" align="center"> 通讯地址</div></td>
+        <td class="text"> 上海市延安西路1882号 </td>
+      </tr>
+    </table>
+        <div align="center">
+          <center>
+            <table width="95%" border="0" id="table8">
+              <tr>
+                <td align="left"><p class="STYLE14" style="LINE-HEIGHT: 150%"><strong>近年来讲授的主要课程：</strong></p>
+                    <table style="margin-left: 20px; margin-right: 20px"  cellspacing="0" width="95%" border="1">
+                      <tr bgcolor="#dee5ed">
+                        <td width="232" bgcolor="#dee5ed"><div align="center" class="STYLE16">课程名称</div></td>
+                        <td><div align="center" class="STYLE16">课程类别</div></td>
+                        <td bgcolor="#dee5ed"><div align="center" class="STYLE16">周学时</div></td>
+                        <td><div align="center" class="STYLE16">届数</div></td>
+                        <td><div align="center" class="STYLE16">学生总人数</div></td>
+                      </tr>
+                      <tr>
+                        <td width="232"><div align="center" class="STYLE16">数据库系统原理</div></td>
+                        <td><div align="center" class="STYLE16">学科基础课</div></td>
+                        <td><div align="center" class="STYLE16">3或4</div></td>
+                        <td><div align="center" class="STYLE16">5</div></td>
+                        <td><div align="center" class="STYLE16">350</div></td>
+                      </tr>
+                      <tr>
+                        <td width="232"><div align="center" class="STYLE16">面向对象程序设计语言C++</div></td>
+                        <td><div align="center" class="STYLE16">专业基础课</div></td>
+                        <td><div align="center" class="STYLE16">4</div></td>
+                        <td><div align="center" class="STYLE16">4</div></td>
+                        <td><div align="center" class="STYLE16">380</div></td>
+                      </tr>
+                      <tr>
+                        <td width="232"><div align="center" class="STYLE16">Java程序设计语言</div></td>
+                        <td><div align="center" class="STYLE16">专业基础课</div></td>
+                        <td><div align="center" class="STYLE16">5</div></td>
+                        <td><div align="center" class="STYLE16">2</div></td>
+                        <td><div align="center" class="STYLE16">180</div></td>
+                      </tr>
+                      <tr>
+                        <td width="232"><div align="center" class="STYLE16">J2EE技术</div></td>
+                        <td><div align="center" class="STYLE16">专业课</div></td>
+                        <td><div align="center" class="STYLE16">2</div></td>
+                        <td><div align="center" class="STYLE16">1</div></td>
+                        <td><div align="center" class="STYLE16">80</div></td>
+                      </tr>
+                      <tr>
+					  <td width="232"><div align="center" class="STYLE16">分布式处理</div></td>
+                        <td><div align="center" class="STYLE16">研究生专业课</div></td>
+                        <td><div align="center" class="STYLE16">2</div></td>
+                        <td><div align="center" class="STYLE16">1</div></td>
+                        <td><div align="center" class="STYLE16">80</div></td>
+                       </tr>
+                    </table>
+                  <p class="STYLE14"><strong>承担的实践性教学：</strong> </p>
+                  <ol class="STYLE14">
+                      <li>
+                        <p> 数据库课程设计、面向对象程序设计实践、实用软件课程设计共计920人。</p>
+                      </li>
+					  
+					  <li>
+					  <p>指导本科毕业设计35人。
+					  </p>
+					  </li>
+                  
+                  </ol>
+                  <p class="STYLE17">研究课题：</p>
+                  <p class="STYLE14">基于Web服务的数据库新技术，国家863项目，2002-2004</p>
+                  <p class="STYLE17">学术论文<strong>（部分）</strong>：</p>
+                  <ol class="STYLE14">
+                      <li class="STYLE14">
+                        <p>基于XML的异构数据源——Xquery查询 计算机应用与软件 
+                          丁祥武（2） 2004年2月</p>
+                      </li>
+                    <li class="STYLE14">
+                        <p>基于RDF模式的存储技术研究 计算机科学 增刊
+                          丁祥武（2） 2004年10月 </p>
+                    </li>
+                    <li class="STYLE14">
+                        <p>基于多层次接口匹配的语义web服务自动组合研究 计算机科学 增刊
+                          丁祥武（3） 2005年7月</p>
+                    </li>
+                    <li class="STYLE14">
+                        <p>基于P2P的web服务体系结构的研究 微计算机应用
+                          丁祥武（2） 录用</p>
+                    </li>
+                    <li class="STYLE14">
+                        <p>基于Chord的Web服务模型的研究 微处理机
+                          丁祥武（2） 录用</p>
+                    </li>
+                  </ol></td>
+              </tr>
+            </table>
+          </center>
+        </div></td>
+  </tr>
+</table>
+</body>
+</html>

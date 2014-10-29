@@ -1,0 +1,363 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+		<title>无标题文档</title>
+		<style type="text/css">
+<!--
+.STYLE14 {
+	font-family: "宋体";
+	font-size: 10pt;
+	color: #000000;
+	padding-left: 20;
+	padding-right: 10;
+}
+
+.STYLE23 {
+	font-size: 10pt;
+	font-family: "宋体";
+}
+
+.style11 {
+	font-family: "Courier New", Courier, mono;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.text {
+	font-family: Tahoma, sans-serif;
+	font-size: 10pt;
+	color: #000000;
+	padding-left: 20;
+	padding-right: 10
+}
+-->
+</style>
+	</head>
+
+	<body>
+		<table width="675" height="93" border="0" cellpadding="0"
+			cellspacing="0">
+			<tr>
+				<td colspan="2">
+					<table class="zi" height="202" cellspacing="0"
+						bordercolordark="#ffffff" cellpadding="0" width="95%"
+						align="center" bordercolorlight="#cccccc" border="1" id="table10">
+						<tr>
+							<td class="zi2" width="30%" bgcolor="#f3f3f3" rowspan="8">
+								<div align="center"><img border="0" src="images/cdh.jpg" width="192" height="144" /></div>
+							</td>
+							<td class="style11" width="24%" bgcolor="#f3f3f3" height="25">
+								<div class="style11" align="center">
+									姓 名
+								</div>
+							</td>
+							<td width="46%" height="25" class="text">
+								陈德华
+							</td>
+						</tr>
+						<tr>
+							<td class="style11" bgcolor="#f3f3f3" height="25">
+								<div class="style11" align="center">
+									性 别
+								</div>
+							</td>
+							<td class="text">
+								男
+							</td>
+						</tr>
+						<tr>
+							<td class="style11" bgcolor="#f3f3f3" height="25">
+								<div class="style11" align="center">
+									出生年月
+								</div>
+							</td>
+							<td class="text">
+								1976.9
+							</td>
+						</tr>
+						<tr>
+							<td class="style11" bgcolor="#f3f3f3" height="25">
+								<div class="style11" align="center">
+									学 位
+								</div>
+							</td>
+							<td class="text">
+								博士
+							</td>
+						</tr>
+						<tr>
+							<td class="style11" bgcolor="#f3f3f3" height="25">
+								<div class="style11" align="center">
+									职 称
+								</div>
+							</td>
+							<td class="text">
+								讲师
+							</td>
+						</tr>
+						<tr>
+							<td class="style11" bgcolor="#f3f3f3" height="25">
+								<div class="style11" align="center">
+									所在院系
+								</div>
+							</td>
+							<td class="text">
+								计算机学院软件与理论系
+							</td>
+						</tr>
+						<tr>
+							<td class="style11" bgcolor="#f3f3f3" height="25">
+								<div class="style11" align="center">
+									Email
+								</div>
+							</td>
+							<td class="text">
+								<a href="mailto:chendehua@dhu.edu.cn">chendehua@dhu.edu.cn</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="style11" bgcolor="#f3f3f3" height="25">
+								<div class="style11" align="center">
+									通讯地址
+								</div>
+							</td>
+							<td class="text">
+								上海市松江区人民北路2999号
+							</td>
+						</tr>
+					</table>
+					<div align="center">
+						<center>
+							<table width="95%" border="0" id="table11">
+								<tr>
+									<td align="left">
+										<p class="STYLE14" style="LINE-HEIGHT: 150%">
+											<strong>近年来讲授的主要课程：</strong>
+										</p>
+										<table style="margin-left: 20px; margin-right: 20px"
+											cellspacing="0" width="95%" border="1">
+											<tr bgcolor="#dee5ed">
+												<td width="232" bgcolor="#dee5ed">
+													<div align="center" class="STYLE23">
+														课程名称
+													</div>
+												</td>
+												<td>
+													<div align="center" class="STYLE23">
+														课程类别
+													</div>
+												</td>
+												<td bgcolor="#dee5ed">
+													<div align="center" class="STYLE23">
+														周学时
+													</div>
+												</td>
+												<td>
+													<div align="center" class="STYLE23">
+														届数
+													</div>
+												</td>
+												<td>
+													<div align="center" class="STYLE23">
+														学生总人数
+													</div>
+												</td>
+											</tr>
+											<tr>
+												<td width="232">
+													<div align="center" class="STYLE23">
+														Oracle与数据库管理
+													</div>
+												</td>
+												<td>
+													<div align="center" class="STYLE23">
+														专业课
+													</div>
+												</td>
+												<td>
+													<div align="center" class="STYLE23">
+														周2学时
+													</div>
+												</td>
+												<td>
+													<div align="center" class="STYLE23">
+														1
+													</div>
+												</td>
+												<td>
+													<div align="center" class="STYLE23">
+														100
+													</div>
+												</td>
+											</tr>
+											<tr>
+												<td width="232">
+													<div align="center" class="STYLE23">
+														数据库系统原理
+													</div>
+												</td>
+												<td>
+													<div align="center" class="STYLE23">
+														专业课
+													</div>
+												</td>
+												<td>
+													<div align="center" class="STYLE23">
+														周3学时
+													</div>
+												</td>
+												<td>
+													<div align="center" class="STYLE23">
+														1
+													</div>
+												</td>
+												<td>
+													<div align="center" class="STYLE23">
+														90
+													</div>
+												</td>
+											</tr>
+											<tr>
+												<td width="232">
+													<div align="center" class="STYLE23">
+														软件工程导论
+													</div>
+												</td>
+												<td>
+													<div align="center" class="STYLE23">
+														专业基础课
+													</div>
+												</td>
+												<td>
+													<div align="center" class="STYLE23">
+														周4学时
+													</div>
+												</td>
+												<td>
+													<div align="center" class="STYLE23">
+														1
+													</div>
+												</td>
+												<td>
+													<div align="center" class="STYLE23">
+														120
+													</div>
+												</td>
+											</tr>
+											<tr>
+												<td width="232">
+													<div align="center" class="STYLE23">
+														软件项目管理
+													</div>
+												</td>
+												<td>
+													<div align="center" class="STYLE23">
+														专业课
+													</div>
+												</td>
+												<td>
+													<div align="center" class="STYLE23">
+														周3学时
+													</div>
+												</td>
+												<td>
+													<div align="center" class="STYLE23">
+														1
+													</div>
+												</td>
+												<td>
+													<div align="center" class="STYLE23">
+														90
+													</div>
+												</td>
+											</tr>
+
+										</table>
+										<p class="STYLE14" style="LINE-HEIGHT: 150%">
+											<strong>近五年来承担的实践性教学：</strong>
+										</p>
+										<ol>
+											<ol>
+												<li class="STYLE23">
+													<p>
+														数据库课程设计、软件开发环境与工具课程设计等     共计150人。
+													</p>
+												</li>
+												<li class="STYLE23">
+													<p>
+														指导课外科技活动70人。
+													</p>
+												</li>
+												<li class="STYLE23">
+													<p>
+														指导本科毕业设计14人。
+													</p>
+												</li>
+											</ol>
+										</ol>
+										<p class="STYLE14" style="LINE-HEIGHT: 150%">
+											<strong>近五年来研究课题：</strong>
+										</p>
+										<ol>
+											<ol>
+												<li class="STYLE23">
+													<p>
+														2005.11-2007.10，城市信息化智能决策应急指挥系统研发，上海市科委，40万，排名第3。
+													</p>
+												</li>
+												<li class="STYLE23">
+													<p>
+														2005.10-2006.10， 数据库管理实训室提升开发，上海科海计算机网络有限公司，18万，排名第2。
+													</p>
+												</li>
+												<li class="STYLE23">
+													<p>
+														2005.10-2006.4，上海宝钢钢材贸易有限公司集约式销售平台开发，上海宝钢钢材贸易有限公司，6万，排名第2。
+													</p>
+												</li>
+												<li class="STYLE23">
+													<p>
+														2005.12-2007.12， Web服务自动组合技术研究，校基金，1万元，负责人。
+													</p>
+												</li>
+												
+											</ol>
+										</ol>
+										<p class="STYLE14" style="LINE-HEIGHT: 150%">
+											<strong>近五年来发表的学术论文：</strong>
+										</p>
+										<ol>
+											<ol>
+												<li class="STYLE23">
+													<p>
+														Automatic Composition for Web Service by Computing its WSDL Interface Similarity, 
+														Journal of Computational Information Systems Vol. 3 No.4 (2007) 1629-1634, EI收录，
+														检索号: 072610674451。
+													</p>
+												</li>
+												<li class="STYLE23">
+													<p>
+														A Novel Web Service Catalog System Supporting Distributed Service Publication and 
+														Discovery，Proceedings of First International Multi-symposiums on Computer and Computational 
+														Sciences, IEEE Press, June 2006, EI收录，检索号065110322712。
+													</p>
+												</li>
+												<li class="STYLE23">
+													<p>
+														BPEL中基于有限状态自动机的Web服务自动组合, 小型微型计算机系统, Vol. 28 No.4 (2007) 742-747。
+													</p>
+												</li>
+											</ol>
+										</ol>
+									</td>
+								</tr>
+							</table>
+						</center>
+					</div>
+
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
